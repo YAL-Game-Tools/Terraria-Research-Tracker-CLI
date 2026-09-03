@@ -5,7 +5,7 @@
     <TargetFramework>net48</TargetFramework>
     <RuntimeIdentifier>win-x86</RuntimeIdentifier>
     <ImplicitUsings>enable</ImplicitUsings>
-    <LangVersion>14</LangVersion>
+    <LangVersion>12</LangVersion>
     <Nullable>disable</Nullable>
     <GenerateAssemblyInfo>false</GenerateAssemblyInfo>
     <DebugType>embedded</DebugType>
